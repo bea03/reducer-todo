@@ -16,15 +16,15 @@ In this project, you build an app that let's you display a todo list from reduce
 
 ## Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository in your terminal
-- [ ] CD into the project base directory `cd reducer-todo`
-- [ ] Create a new react app using CRA
-- [ ] Using the same command tool (yarn or npm) start up the app using `yarn start` or `npm start`
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [x ] Create a forked copy of this project.
+- [ x] Add your team lead as collaborator on Github.
+- [x ] Clone your OWN version of the repository in your terminal
+- [ x] CD into the project base directory `cd reducer-todo`
+- [ x] Create a new react app using CRA
+- [x ] Using the same command tool (yarn or npm) start up the app using `yarn start` or `npm start`
+- [ x] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [ x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [ x] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project.
 
@@ -42,7 +42,7 @@ Follow these steps for completing your project.
 
 ### STEP 1 - Build a simple reducer and initial state
 
-- In a folder called `reducers` add a reducer file and build out a simple reducer with just a default return for now
+- x In a folder called `reducers` add a reducer file and build out a simple reducer with just a default return for now
 - In the same file, build your initial state object that has a list of todos with the following shape:
 
 ```js
